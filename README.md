@@ -1,53 +1,27 @@
-# Academic Project Page Template
-This is an academic paper project page template.
+# FACA-Survey
 
+Project page of the paper titled _"Public Evaluation on Potential Social Impacts of Fully Autonomous Cybernetic Avatars for Physical Support in Daily-Life Environments: Large-Scale Demonstration and Survey at Avatar Land"_.
 
-Example project pages built using this template are:
-- https://horwitz.ai/probex
-- https://vision.huji.ac.il/probegen
-- https://horwitz.ai/mother
-- https://horwitz.ai/spectral_detuning
-- https://vision.huji.ac.il/ladeda
-- https://vision.huji.ac.il/dsire
-- https://horwitz.ai/podd
-- https://dreamix-video-editing.github.io
-- https://horwitz.ai/conffusion
-- https://horwitz.ai/3d_ads/
-- https://vision.huji.ac.il/ssrl_ad
-- https://vision.huji.ac.il/deepsim
-
-
-
-## Start using the template
-To start using the template click on `Use this Template`.
-
-The template uses html for controlling the content and css for controlling the style. 
-To edit the websites contents edit the `index.html` file. It contains different HTML "building blocks", use whichever ones you need and comment out the rest.  
-
-**IMPORTANT!** Make sure to replace the `favicon.ico` under `static/images/` with one of your own, otherwise your favicon is going to be a dreambooth image of me.
-
-## Components
-- Teaser video
-- Images Carousel
-- Youtube embedding
-- Video Carousel
-- PDF Poster
-- Bibtex citation
-
-## Tips:
-- The `index.html` file contains comments instructing you what to replace, you should follow these comments.
-- The `meta` tags in the `index.html` file are used to provide metadata about your paper 
-(e.g. helping search engine index the website, showing a preview image when sharing the website, etc.)
-- The resolution of images and videos can usually be around 1920-2048, there rarely a need for better resolution that take longer to load. 
-- All the images and videos you use should be compressed to allow for fast loading of the website (and thus better indexing by search engines). For images, you can use [TinyPNG](https://tinypng.com), for videos you can need to find the tradeoff between size and quality.
-- When using large video files (larger than 10MB), it's better to use youtube for hosting the video as serving the video from the website can take time.
-- Using a tracker can help you analyze the traffic and see where users came from. [statcounter](https://statcounter.com) is a free, easy to use tracker that takes under 5 minutes to set up. 
-- This project page can also be made into a github pages website.
-- Replace the favicon to one of your choosing (the default one is of the Hebrew University). 
-- Suggestions, improvements and comments are welcome, simply open an issue or contact me. You can find my contact information at [https://horwitz.ai](https://horwitz.ai)
+*   Project page URL: https://github.com/lotfielhafi/FACA-Survey
+*   Original `REAMDE.md`: https://github.com/eliahuhorwitz/Academic-project-page-template
+*   BibTeX citation:
+    ```
+    @inproceedings{el_hafi_public_2025,
+        author = {El Hafi, Lotfi and Onishi, Kazuma and Hasegawa, Shoichi and Oyama, Akira and Ishikawa, Tomochika and Osada, Masashi and Tornberg, Carl and Kado, Ryoma and Murata, Kento and Hashimoto, Saki and Carrera Villalobos, Sebastian and Taniguchi, Akira and Garcia Ricardez, Gustavo Alfonso and Hagiwara, Yoshinobu and Aoki, Tatsuya and Iwata, Kensuke and Horii, Takato and Horikawa, Yukiko and Miyashita, Takahiro and Taniguchi, Tadahiro and Ishiguro, Hiroshi},
+        title = {Public {Evaluation} on {Potential} {Social} {Impacts} of {Fully} {Autonomous} {Cybernetic} {Avatars} for {Physical} {Support} in {Daily}-{Life} {Environments}: {Large}-{Scale} {Demonstration} and {Survey} at {Avatar} {Land}},
+        booktitle = {Proceedings of 2025 {IEEE} {International} {Conference} on {Advanced} {Robotics} and its {Social} {Impacts} ({ARSO} 2025)},
+        address = {Osaka, Japan},
+        month = jul,
+        year = {2025},
+        abstract = {Cybernetic avatars (CAs) are key components of an avatar-symbiotic society, enabling individuals to overcome physical limitations through virtual agents and robotic assistants. While semi-autonomous CAs intermittently require human teleoperation and supervision, the deployment of fully autonomous CAs remains a challenge. This study evaluates public perception and potential social impacts of fully autonomous CAs for physical support in daily life. To this end, we conducted a large-scale demonstration and survey during Avatar Land, a 19-day public event in Osaka, Japan, where fully autonomous robotic CAs, alongside semi-autonomous CAs, performed daily object retrieval tasks. Specifically, we analyzed responses from 2,285 visitors who engaged with various CAs, including a subset of 333 participants who interacted with fully autonomous CAs and shared their perceptions and concerns through a survey questionnaire. The survey results indicate interest in CAs for physical support in daily life and at work. However, concerns were raised regarding task execution reliability. In contrast, cost and human-like interaction were not dominant concerns.},
+        language = {en},
+    }
+    ```
 
 ## Acknowledgments
+
 Parts of this project page were adopted from the [Nerfies](https://nerfies.github.io/) page.
 
 ## Website License
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
