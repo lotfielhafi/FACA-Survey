@@ -2,7 +2,7 @@
 
 Project page of the paper titled _"Public Evaluation on Potential Social Impacts of Fully Autonomous Cybernetic Avatars for Physical Support in Daily-Life Environments: Large-Scale Demonstration and Survey at Avatar Land"_.
 
-*   Project page URL: https://github.com/lotfielhafi/FACA-Survey
+*   Project page URL: https://lotfielhafi.github.io/FACA-Survey/
 *   Original `REAMDE.md`: https://github.com/eliahuhorwitz/Academic-project-page-template
 *   BibTeX citation:
     ```
